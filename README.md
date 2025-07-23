@@ -14,6 +14,6 @@ Aqui irei partilhar códigos que desenvolvo durante o curso de GPSI, desde o pri
   
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).  
-**Se usar este código, mantenha os créditos para mim (Guilherme Neves).**
+**Se usar algum destes códigos, mantenha os créditos presentes nele (Guilherme Neves).**
 
 Obrigado e espero que aches algo interessante!
