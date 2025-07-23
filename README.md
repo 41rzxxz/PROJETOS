@@ -13,7 +13,7 @@ Aqui irei partilhar códigos que desenvolvo durante o curso de GPSI, desde o pri
 - HTML / CSS
   
 ## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).  
+Este projeto está licenciado sob a [MIT License](LICENÇA).  
 **Se usar algum destes códigos, mantenha os créditos presentes nele (Guilherme Neves).**
 
 Obrigado e espero que aches algo interessante!
